@@ -1,0 +1,92 @@
+{
+  "language": "Polski",
+
+  "common": {
+    "add": "Dodaj",
+    "update": "Aktualizuj",
+    "delete": "Usuń",
+    "cancel": "Anuluj",
+    "save": "Zapisz"
+  },
+
+  "deadlines": {
+    "deadlines": "Terminy",
+    "details": {
+      "title": "Szczegóły terminu"
+    },
+    "add": {
+      "title": "Dodaj termin"
+    },
+    "update": {
+      "title": "Edytuj termin"
+    },
+    "messages": {
+      "deleted": "Termin usunięty",
+      "noDeadlines": "Nie ma jeszcze terminów.\nUtwórz jeden w menu",
+      "updatedSuccessfully": "Termin zaktualizowany pomyślnie",
+      "createdSuccessfully": "Termin utworzony pomyślnie"
+    }
+  },
+
+  "groups": {
+    "title": "Grupy",
+    "details": {
+      "title": "Szczegóły grupy"
+    },
+    "add": {
+      "title": "Dodaj grupę"
+    },
+    "update": {
+      "title": "Edytuj grupę"
+    },
+    "messages": {
+      "deleted": "Grupa usunięta",
+      "updatedSuccessfully": "Grupa zaktualizowana pomyślnie",
+      "createdSuccessfully": "Grupa utworzona pomyślnie"
+    }
+  },
+
+  "settings": {
+    "language": "Język",
+    "title": "Ustawienia"
+  },
+  "welcomeScreen": {
+    "title": "Innowacyjne, przyjazne użytkownikowi\n i łatwe w obsłudze.",
+    "getStarted": "Zaczynamy"
+  },
+  "forms": {
+    "labels": {
+      "title": "Tytuł",
+      "description": "Opis",
+      "decs": "Opis",
+      "name": "Nazwa",
+      "due": "Termin",
+      "desc": "Desc",
+      "color": "Kolor",
+      "groups": "Grupy",
+      "created": "Utworzono",
+      "selectValue": "Wybierz wartość"
+    },
+    "buttons": {
+      "saveChanges": "Zapisz zmiany",
+      "edit": "Edytuj",
+      "save": "Zapisz",
+      "cancel": "Anuluj",
+      "delete": "Usuń",
+      "add": "Dodaj",
+      "close": "Zamknij"
+    }
+  },
+
+  "dialogs": {
+    "confirmation": {
+      "areYouSure": "Czy na pewno chcesz to zrobić?",
+      "no": "Nie",
+      "yes": "Tak"
+    },
+    "pickers": {
+      "color": "Wybierz kolor. Kliknij Zapisz, gdy skończysz.",
+      "date": "Wybierz datę. Kliknij Zapisz, gdy skończysz."
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "language": "English",
+
+  "common": {
+    "add": "Add",
+    "update": "Update",
+    "delete": "Delete",
+    "cancel": "Cancel",
+    "save": "Save"
+  },
+
+  "deadlines": {
+    "deadlines": "Deadlines",
+    "details": {
+      "title": "Deadline details"
+    },
+    "add": {
+      "title": "Add deadline"
+    },
+    "update": {
+      "title": "Edit deadline"
+    },
+    "messages": {
+      "deleted": "Deadline deleted",
+      "noDeadlines": "There are no deadlines yet.\nCreate one in the menu",
+      "updatedSuccessfully": "Deadline updated successfully",
+      "createdSuccessfully": "Deadline created successfully"
+    }
+  },
+
+  "groups": {
+    "title": "Groups",
+    "details": {
+      "title": "Group details"
+    },
+    "add": {
+      "title": "Add group"
+    },
+    "update": {
+      "title": "Edit group"
+    },
+    "messages": {
+      "deleted": "Group deleted",
+      "updatedSuccessfully": "Group updated successfully",
+      "createdSuccessfully": "Group created successfully"
+    }
+  },
+
+  "settings": {
+    "language": "Language",
+    "title": "Settings"
+  },
+
+  "forms": {
+    "labels": {
+      "title": "Title",
+      "description": "Description",
+      "decs": "Description",
+      "name": "Name",
+      "due": "Due",
+      "desc": "Desc",
+      "color": "Color",
+      "groups": "Groups",
+      "created": "Created",
+      "selectValue": "Select value"
+    },
+    "buttons": {
+      "saveChanges": "Save changes",
+      "edit": "Edit",
+      "save": "Save",
+      "cancel": "Cancel",
+      "delete": "Delete",
+      "add": "Add",
+      "close": "Close"
+    }
+  },
+  "welcomeScreen": {
+    "title": "Innovative, user-friendly,\nand easy.",
+    "getStarted": "Get started"
+  },
+  "dialogs": {
+    "confirmation": {
+      "areYouSure": "Are you sure you want to do this?",
+      "no": "No",
+      "yes": "Yes"
+    },
+    "pickers": {
+      "color": "Pick up the color. Click save when you're done.",
+      "date": "Pick up the date. Click save when you're done."
+    }
+  }
+}

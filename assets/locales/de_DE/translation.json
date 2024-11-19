@@ -1,0 +1,93 @@
+{
+  "language": "Deutsch",
+
+  "common": {
+    "add": "Hinzufügen",
+    "update": "Aktualisieren",
+    "delete": "Löschen",
+    "cancel": "Abbrechen",
+    "save": "Speichern"
+  },
+
+  "deadlines": {
+    "deadlines": "Fristen",
+    "details": {
+      "title": "Fristdetails"
+    },
+    "add": {
+      "title": "Frist hinzufügen"
+    },
+    "update": {
+      "title": "Frist bearbeiten"
+    },
+    "messages": {
+      "deleted": "Frist gelöscht",
+      "noDeadlines": "Es gibt noch keine Fristen.\nErstellen Sie eine im Menü",
+      "updatedSuccessfully": "Frist erfolgreich aktualisiert",
+      "createdSuccessfully": "Frist erfolgreich erstellt"
+    }
+  },
+
+  "groups": {
+    "title": "Gruppen",
+    "details": {
+      "title": "Gruppendetails"
+    },
+    "add": {
+      "title": "Gruppe hinzufügen"
+    },
+    "update": {
+      "title": "Gruppe bearbeiten"
+    },
+    "messages": {
+      "deleted": "Gruppe gelöscht",
+      "updatedSuccessfully": "Gruppe erfolgreich aktualisiert",
+      "createdSuccessfully": "Gruppe erfolgreich erstellt"
+    }
+  },
+
+  "settings": {
+    "language": "Sprache",
+    "title": "Einstellungen"
+  },
+
+  "forms": {
+    "labels": {
+      "title": "Titel",
+      "description": "Beschreibung",
+      "decs": "Beschreibung",
+      "name": "Name",
+      "due": "Fällig",
+      "desc": "Desc",
+      "color": "Farbe",
+      "groups": "Gruppen",
+      "created": "Erstellt",
+      "selectValue": "Wert auswählen"
+    },
+    "buttons": {
+      "saveChanges": "Änderungen speichern",
+      "edit": "Bearbeiten",
+      "save": "Speichern",
+      "cancel": "Abbrechen",
+      "delete": "Löschen",
+      "add": "Hinzufügen",
+      "close": "Schließen"
+    }
+  },
+
+  "welcomeScreen": {
+    "title": "Innovativ, benutzerfreundlich\nund einfach.",
+    "getStarted": "Jetzt starten"
+  },
+  "dialogs": {
+    "confirmation": {
+      "areYouSure": "Sind Sie sicher, dass Sie das tun möchten?",
+      "no": "Nein",
+      "yes": "Ja"
+    },
+    "pickers": {
+      "color": "Wählen Sie die Farbe aus. Klicken Sie auf Speichern, wenn Sie fertig sind.",
+      "date": "Wählen Sie das Datum aus. Klicken Sie auf Speichern, wenn Sie fertig sind."
+    }
+  }
+}

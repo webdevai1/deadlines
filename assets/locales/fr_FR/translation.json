@@ -1,0 +1,92 @@
+{
+  "language": "Français",
+
+  "common": {
+    "add": "Ajouter",
+    "update": "Mettre à jour",
+    "delete": "Supprimer",
+    "cancel": "Annuler",
+    "save": "Sauvegarder"
+  },
+  "welcomeScreen": {
+    "title": "Innovant, convivial\net simple.",
+    "getStarted": "Commencer"
+  },
+  "deadlines": {
+    "deadlines": "Dates limites",
+    "details": {
+      "title": "Détails de la date limite"
+    },
+    "add": {
+      "title": "Ajouter une date limite"
+    },
+    "update": {
+      "title": "Modifier la date limite"
+    },
+    "messages": {
+      "deleted": "Date limite supprimée",
+      "noDeadlines": "Il n'y a pas encore de dates limites.\nCréez-en une dans le menu",
+      "updatedSuccessfully": "Date limite mise à jour avec succès",
+      "createdSuccessfully": "Date limite créée avec succès"
+    }
+  },
+
+  "groups": {
+    "title": "Groupes",
+    "details": {
+      "title": "Détails du groupe"
+    },
+    "add": {
+      "title": "Ajouter un groupe"
+    },
+    "update": {
+      "title": "Modifier le groupe"
+    },
+    "messages": {
+      "deleted": "Groupe supprimé",
+      "updatedSuccessfully": "Groupe mis à jour avec succès",
+      "createdSuccessfully": "Groupe créé avec succès"
+    }
+  },
+
+  "settings": {
+    "language": "Langue",
+    "title": "Paramètres"
+  },
+
+  "forms": {
+    "labels": {
+      "title": "Titre",
+      "description": "Description",
+      "decs": "Description",
+      "name": "Nom",
+      "due": "Échéance",
+      "desc": "Desc",
+      "color": "Couleur",
+      "groups": "Groupes",
+      "created": "Créé",
+      "selectValue": "Sélectionner une valeur"
+    },
+    "buttons": {
+      "saveChanges": "Sauvegarder les modifications",
+      "edit": "Modifier",
+      "save": "Sauvegarder",
+      "cancel": "Annuler",
+      "delete": "Supprimer",
+      "add": "Ajouter",
+      "close": "Fermer"
+    }
+  },
+
+  "dialogs": {
+    "confirmation": {
+      "areYouSure": "Êtes-vous sûr de vouloir faire cela ?",
+      "no": "Non",
+      "yes": "Oui"
+    },
+    "pickers": {
+      "color": "Choisissez la couleur. Cliquez sur sauvegarder lorsque vous avez terminé.",
+      "date": "Choisissez la date. Cliquez sur sauvegarder lorsque vous avez terminé."
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "language": "Slovenčina",
+
+  "common": {
+    "add": "Pridať",
+    "update": "Aktualizovať",
+    "delete": "Odstrániť",
+    "cancel": "Zrušiť",
+    "save": "Uložiť"
+  },
+
+  "deadlines": {
+    "deadlines": "Termíny",
+    "details": {
+      "title": "Detaily termínu"
+    },
+    "add": {
+      "title": "Pridať termín"
+    },
+    "update": {
+      "title": "Upraviť termín"
+    },
+    "messages": {
+      "deleted": "Termín bol odstránený",
+      "noDeadlines": "Ešte nie sú žiadne termíny.\nVytvorte jeden v menu",
+      "updatedSuccessfully": "Termín bol úspešne aktualizovaný",
+      "createdSuccessfully": "Termín bol úspešne vytvorený"
+    }
+  },
+
+  "groups": {
+    "title": "Skupiny",
+    "details": {
+      "title": "Detaily skupiny"
+    },
+    "add": {
+      "title": "Pridať skupinu"
+    },
+    "update": {
+      "title": "Upraviť skupinu"
+    },
+    "messages": {
+      "deleted": "Skupina bola odstránená",
+      "updatedSuccessfully": "Skupina bola úspešne aktualizovaná",
+      "createdSuccessfully": "Skupina bola úspešne vytvorená"
+    }
+  },
+
+  "settings": {
+    "language": "Jazyk",
+    "title": "Nastavenia"
+  },
+
+  "forms": {
+    "labels": {
+      "title": "Názov",
+      "description": "Popis",
+      "decs": "Popis",
+      "name": "Meno",
+      "due": "Termín",
+      "desc": "Popis",
+      "color": "Farba",
+      "groups": "Skupiny",
+      "created": "Vytvorené",
+      "selectValue": "Vyberte hodnotu"
+    },
+    "buttons": {
+      "saveChanges": "Uložiť zmeny",
+      "edit": "Upraviť",
+      "save": "Uložiť",
+      "cancel": "Zrušiť",
+      "delete": "Odstrániť",
+      "add": "Pridať",
+      "close": "Zavrieť"
+    }
+  },
+  "welcomeScreen": {
+    "title": "Inovatívne, užívateľsky prívetivé\n a jednoduché.",
+    "getStarted": "Začnite"
+  },
+  "dialogs": {
+    "confirmation": {
+      "areYouSure": "Naozaj to chcete urobiť?",
+      "no": "Nie",
+      "yes": "Áno"
+    },
+    "pickers": {
+      "color": "Vyberte farbu. Kliknite na Uložiť, keď budete hotoví.",
+      "date": "Vyberte dátum. Kliknite na Uložiť, keď budete hotoví."
+    }
+  }
+}

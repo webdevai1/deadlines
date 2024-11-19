@@ -1,0 +1,92 @@
+{
+  "language": "中文",
+
+  "common": {
+    "add": "添加",
+    "update": "更新",
+    "delete": "删除",
+    "cancel": "取消",
+    "save": "保存"
+  },
+
+  "deadlines": {
+    "deadlines": "截止日期",
+    "details": {
+      "title": "截止日期详情"
+    },
+    "add": {
+      "title": "添加截止日期"
+    },
+    "update": {
+      "title": "编辑截止日期"
+    },
+    "messages": {
+      "deleted": "截止日期已删除",
+      "noDeadlines": "尚无截止日期。\n请在菜单中创建一个",
+      "updatedSuccessfully": "截止日期更新成功",
+      "createdSuccessfully": "截止日期创建成功"
+    }
+  },
+
+  "groups": {
+    "title": "组",
+    "details": {
+      "title": "组详情"
+    },
+    "add": {
+      "title": "添加组"
+    },
+    "update": {
+      "title": "编辑组"
+    },
+    "messages": {
+      "deleted": "组已删除",
+      "updatedSuccessfully": "组更新成功",
+      "createdSuccessfully": "组创建成功"
+    }
+  },
+
+  "settings": {
+    "language": "语言",
+    "title": "设置"
+  },
+
+  "forms": {
+    "labels": {
+      "title": "标题",
+      "description": "描述",
+      "decs": "描述",
+      "name": "名称",
+      "due": "截止",
+      "desc": "描述",
+      "color": "颜色",
+      "groups": "组",
+      "created": "创建",
+      "selectValue": "选择值"
+    },
+    "buttons": {
+      "saveChanges": "保存更改",
+      "edit": "编辑",
+      "save": "保存",
+      "cancel": "取消",
+      "delete": "删除",
+      "add": "添加",
+      "close": "关闭"
+    }
+  },
+  "welcomeScreen": {
+    "title": "創新、使用者友善且簡單。",
+    "getStarted": "開始使用"
+  },
+  "dialogs": {
+    "confirmation": {
+      "areYouSure": "您确定要这样做吗？",
+      "no": "否",
+      "yes": "是"
+    },
+    "pickers": {
+      "color": "选择颜色。完成后点击保存。",
+      "date": "选择日期。完成后点击保存。"
+    }
+  }
+}

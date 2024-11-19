@@ -1,0 +1,92 @@
+{
+  "language": "Italiano",
+
+  "common": {
+    "add": "Aggiungi",
+    "update": "Aggiorna",
+    "delete": "Elimina",
+    "cancel": "Annulla",
+    "save": "Salva"
+  },
+
+  "deadlines": {
+    "deadlines": "Scadenze",
+    "details": {
+      "title": "Dettagli sulla scadenza"
+    },
+    "add": {
+      "title": "Aggiungi scadenza"
+    },
+    "update": {
+      "title": "Modifica scadenza"
+    },
+    "messages": {
+      "deleted": "Scadenza eliminata",
+      "noDeadlines": "Non ci sono ancora scadenze.\nCrea una nel menu",
+      "updatedSuccessfully": "Scadenza aggiornata con successo",
+      "createdSuccessfully": "Scadenza creata con successo"
+    }
+  },
+
+  "groups": {
+    "title": "Gruppi",
+    "details": {
+      "title": "Dettagli del gruppo"
+    },
+    "add": {
+      "title": "Aggiungi gruppo"
+    },
+    "update": {
+      "title": "Modifica gruppo"
+    },
+    "messages": {
+      "deleted": "Gruppo eliminato",
+      "updatedSuccessfully": "Gruppo aggiornato con successo",
+      "createdSuccessfully": "Gruppo creato con successo"
+    }
+  },
+
+  "settings": {
+    "language": "Lingua",
+    "title": "Impostazioni"
+  },
+
+  "forms": {
+    "labels": {
+      "title": "Titolo",
+      "description": "Descrizione",
+      "decs": "Descrizione",
+      "name": "Nome",
+      "due": "Scadenza",
+      "desc": "Desc",
+      "color": "Colore",
+      "groups": "Gruppi",
+      "created": "Creato",
+      "selectValue": "Seleziona valore"
+    },
+    "buttons": {
+      "saveChanges": "Salva modifiche",
+      "edit": "Modifica",
+      "save": "Salva",
+      "cancel": "Annulla",
+      "delete": "Elimina",
+      "add": "Aggiungi",
+      "close": "Chiudi"
+    }
+  },
+  "welcomeScreen": {
+    "title": "Innovativo, intuitivo\ne semplice.",
+    "getStarted": "Iniziare"
+  },
+  "dialogs": {
+    "confirmation": {
+      "areYouSure": "Sei sicuro di voler fare questo?",
+      "no": "No",
+      "yes": "Sì"
+    },
+    "pickers": {
+      "color": "Seleziona il colore. Clicca su salva quando hai finito.",
+      "date": "Seleziona la data. Clicca su salva quando hai finito."
+    }
+  }
+}

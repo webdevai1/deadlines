@@ -1,0 +1,93 @@
+{
+  "language": "Čeština",
+
+  "common": {
+    "add": "Přidat",
+    "update": "Aktualizovat",
+    "delete": "Smazat",
+    "cancel": "Zrušit",
+    "save": "Uložit"
+  },
+
+  "deadlines": {
+    "deadlines": "Termíny",
+    "details": {
+      "title": "Detaily termínu"
+    },
+    "add": {
+      "title": "Přidat termín"
+    },
+    "update": {
+      "title": "Upravit termín"
+    },
+    "messages": {
+      "deleted": "Termín byl smazán",
+      "noDeadlines": "Zatím nejsou žádné termíny.\nVytvořte jeden v nabídce",
+      "updatedSuccessfully": "Termín byl úspěšně aktualizován",
+      "createdSuccessfully": "Termín byl úspěšně vytvořen"
+    }
+  },
+
+  "groups": {
+    "title": "Skupiny",
+    "details": {
+      "title": "Detaily skupiny"
+    },
+    "add": {
+      "title": "Přidat skupinu"
+    },
+    "update": {
+      "title": "Upravit skupinu"
+    },
+    "messages": {
+      "deleted": "Skupina byla smazána",
+      "updatedSuccessfully": "Skupina byla úspěšně aktualizována",
+      "createdSuccessfully": "Skupina byla úspěšně vytvořena"
+    }
+  },
+
+  "settings": {
+    "language": "Jazyk",
+    "title": "Nastavení"
+  },
+
+  "forms": {
+    "labels": {
+      "title": "Název",
+      "description": "Popis",
+      "decs": "Popis",
+      "name": "Jméno",
+      "due": "Termín",
+      "desc": "Popis",
+      "color": "Barva",
+      "groups": "Skupiny",
+      "created": "Vytvořeno",
+      "selectValue": "Vyberte hodnotu"
+    },
+    "buttons": {
+      "saveChanges": "Uložit změny",
+      "edit": "Upravit",
+      "save": "Uložit",
+      "cancel": "Zrušit",
+      "delete": "Smazat",
+      "add": "Přidat",
+      "close": "Zavřít"
+    }
+  },
+
+  "welcomeScreen": {
+    "title": "Innovadora,že d\nusar y aquí.",
+    "getStarted": "Začít"
+  },
+  "dialogs": {
+    "confirmation": {
+      "areYouSure": "Opravdu to chcete udělat?",
+      "no": "Ne",
+      "yes": "Ano"
+    },
+    "pickers": {
+      "color": "Vyberte barvu. Klikněte na Uložit, když budete hotovi.",
+      "date": "Vyberte datum. Klikněte na Uložit, když budete hotovi."
+    }
+  }
+}

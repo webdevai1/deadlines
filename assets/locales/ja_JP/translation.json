@@ -1,0 +1,92 @@
+{
+  "language": "日本語",
+
+  "common": {
+    "add": "追加",
+    "update": "更新",
+    "delete": "削除",
+    "cancel": "キャンセル",
+    "save": "保存"
+  },
+
+  "deadlines": {
+    "deadlines": "締切",
+    "details": {
+      "title": "締切の詳細"
+    },
+    "add": {
+      "title": "締切を追加"
+    },
+    "update": {
+      "title": "締切を編集"
+    },
+    "messages": {
+      "deleted": "締切が削除されました",
+      "noDeadlines": "まだ締切はありません。\nメニューから作成してください",
+      "updatedSuccessfully": "締切が正常に更新されました",
+      "createdSuccessfully": "締切が正常に作成されました"
+    }
+  },
+
+  "groups": {
+    "title": "グループ",
+    "details": {
+      "title": "グループの詳細"
+    },
+    "add": {
+      "title": "グループを追加"
+    },
+    "update": {
+      "title": "グループを編集"
+    },
+    "messages": {
+      "deleted": "グループが削除されました",
+      "updatedSuccessfully": "グループが正常に更新されました",
+      "createdSuccessfully": "グループが正常に作成されました"
+    }
+  },
+
+  "settings": {
+    "language": "言語",
+    "title": "設定"
+  },
+
+  "forms": {
+    "labels": {
+      "title": "タイトル",
+      "description": "説明",
+      "decs": "説明",
+      "name": "名前",
+      "due": "期限",
+      "desc": "Desc",
+      "color": "色",
+      "groups": "グループ",
+      "created": "作成",
+      "selectValue": "値を選択"
+    },
+    "buttons": {
+      "saveChanges": "変更を保存",
+      "edit": "編集",
+      "save": "保存",
+      "cancel": "キャンセル",
+      "delete": "削除",
+      "add": "追加",
+      "close": "閉じる"
+    }
+  },
+  "welcomeScreen": {
+    "title": "革新的で、ユーザーフレンドリーで、\n簡単です。",
+    "getStarted": "始める"
+  },
+  "dialogs": {
+    "confirmation": {
+      "areYouSure": "本当にこれを行いますか？",
+      "no": "いいえ",
+      "yes": "はい"
+    },
+    "pickers": {
+      "color": "色を選択してください。完了したら保存をクリックします。",
+      "date": "日付を選択してください。完了したら保存をクリックします。"
+    }
+  }
+}

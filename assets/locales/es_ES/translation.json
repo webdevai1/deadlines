@@ -1,0 +1,94 @@
+{
+  "language": "Español",
+
+  "common": {
+    "add": "Agregar",
+    "update": "Actualizar",
+    "delete": "Eliminar",
+    "cancel": "Cancelar",
+    "save": "Guardar"
+  },
+
+  "deadlines": {
+    "deadlines": "Fechas límites",
+    "details": {
+      "title": "Detalles de la fecha límite"
+    },
+    "add": {
+      "title": "Agregar fecha límite"
+    },
+    "update": {
+      "title": "Editar fecha límite"
+    },
+    "messages": {
+      "deleted": "Fecha límite eliminada",
+      "noDeadlines": "Aún no hay fechas límites.\nCrea una en el menú",
+      "updatedSuccessfully": "Fecha límite actualizada con éxito",
+      "createdSuccessfully": "Fecha límite creada con éxito"
+    }
+  },
+
+  "welcomeScreen": {
+    "title": "Innovadora, fácil de\nusar y fácil.",
+    "getStarted": "Empezar"
+  },
+
+  "groups": {
+    "title": "Grupos",
+    "details": {
+      "title": "Detalles del grupo"
+    },
+    "add": {
+      "title": "Agregar grupo"
+    },
+    "update": {
+      "title": "Editar grupo"
+    },
+    "messages": {
+      "deleted": "Grupo eliminado",
+      "updatedSuccessfully": "Grupo actualizado con éxito",
+      "createdSuccessfully": "Grupo creado con éxito"
+    }
+  },
+
+  "settings": {
+    "language": "Idioma",
+    "title": "Configuraciones"
+  },
+
+  "forms": {
+    "labels": {
+      "title": "Título",
+      "description": "Descripción",
+      "decs": "Descripción",
+      "name": "Nombre",
+      "due": "Fecha límite",
+      "desc": "Desc",
+      "color": "Color",
+      "groups": "Grupos",
+      "created": "Creado",
+      "selectValue": "Seleccionar valor"
+    },
+    "buttons": {
+      "saveChanges": "Guardar cambios",
+      "edit": "Editar",
+      "save": "Guardar",
+      "cancel": "Cancelar",
+      "delete": "Eliminar",
+      "add": "Agregar",
+      "close": "Cerrar"
+    }
+  },
+
+  "dialogs": {
+    "confirmation": {
+      "areYouSure": "¿Estás seguro de que quieres hacer esto?",
+      "no": "No",
+      "yes": "Sí"
+    },
+    "pickers": {
+      "color": "Selecciona el color. Haz clic en guardar cuando hayas terminado.",
+      "date": "Selecciona la fecha. Haz clic en guardar cuando hayas terminado."
+    }
+  }
+}
